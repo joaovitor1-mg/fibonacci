@@ -33,4 +33,6 @@ Dessa forma, é possível visualizar como as mesmas informações ficam organiza
 ---
 
 ## 📋 Exemplo de Uso
-![Exemplo de uso](img/exemplouso.png)
+![Exemplo de uso](exemplouso.png)
+
+

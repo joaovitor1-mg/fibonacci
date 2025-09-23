@@ -1,15 +1,3 @@
-# Exercício de Estruturas de Dados – Fibonacci com Fila e Pilha
-
-## 📌 Descrição
-Este programa em C++ gera uma quantidade definida pelo usuário de números da **sequência de Fibonacci** e os armazena em duas estruturas de dados diferentes:
-
-- **Fila (FIFO – First In, First Out)** → os números são armazenados na ordem em que são gerados.  
-- **Pilha (LIFO – Last In, First Out)** → os números são armazenados de forma que o último gerado fique no topo.  
-
-Dessa forma, é possível visualizar como as mesmas informações ficam organizadas de maneiras diferentes em cada estrutura.
-
----
-
 ## 🛠️ Estruturas Implementadas
 - **Classe Fila**
   - `Inserir(Fila* F, int N)` → insere um novo elemento no final da fila.  
@@ -34,5 +22,6 @@ Dessa forma, é possível visualizar como as mesmas informações ficam organiza
 
 ## 📋 Exemplo de Uso
 ![Exemplo de uso](exemplouso.png)
+
 
 
